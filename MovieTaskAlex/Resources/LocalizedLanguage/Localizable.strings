@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  MovieTaskAlex
+
+  Created by Alex on 24.08.22.
+  
+*/
+//MARK: - Movies
+"Films"        = "ფილმები";
+
+//MARK: - Favorites
+"AddFavorites"     = "დაამატე ფავორიტად";
+"Favorites"     = "ფავორიტები";
+"NoFavs"        = "თქვენ არ გაქვთ ფავორიტი ფილმები";
+"CleanFavorites" = "გასუფთავება";
+"You Want To Clean Favorites" = "გსურთ გაასუფფთაოთ ფავორიტები?";
+"Attention" = "გაფრთხილება";
+"Yes" = "დიახ";
+"No" = "არა";
+"you Dont Have favorite Films" = "თქვენ არ გაქვთ ფავორიტი ფილმები";
+
+//MARK: - Movie Details
+"ReleaseDate"   = "გამოშვების თარიღი";
+"IBMD Rating" = "IBMD რეიტინგი";
+"Added"   = "დამატებულია";
+
