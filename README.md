@@ -1,5 +1,5 @@
 # MovieTaskAlex
-## Intro
+## About
 
 This Films app is For to Show my skills.  For Test Api I used TheMOvieDB
 "https://www.themoviedb.org/documentation/api" API.
