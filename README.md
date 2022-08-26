@@ -23,6 +23,7 @@ Clean Swift + MVVM
 - [x] UIKit - No Storyboards , only Programatically 
 - [x] Supported , Landscape mode , iPad
 - [x] Dark And Ligth theme
+- [x] Localized Strings 
 - [x] Programming language - Swift
 - [x] Core Data - Used for save Favorite Films.
 
