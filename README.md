@@ -29,3 +29,6 @@ Clean Swift + MVVM
 ## 3rd Party Libraries 
 
 1.Kingfisher - For Image Chaching (https://github.com/onevcat/Kingfisher)
+
+## App Demo
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/66839861/186882981-d5435d05-e61e-4fb4-be47-4f912319eab5.gif)
