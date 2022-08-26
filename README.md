@@ -31,4 +31,4 @@ Clean Swift + MVVM
 1.Kingfisher - For Image Chaching (https://github.com/onevcat/Kingfisher)
 
 ## App Demo
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/66839861/186882981-d5435d05-e61e-4fb4-be47-4f912319eab5.gif)
+https://user-images.githubusercontent.com/66839861/186885599-84b8ffde-674a-4c8e-b2bc-c97224291c12.mov
